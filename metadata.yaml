@@ -1,10 +1,16 @@
 _repo: Take-It-From-Dad_48596
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 48596-h/images/cover-image.jpg
 creator:
   author:
     agent_name: Livermore, George G.
     gutenberg_agent_id: '44874'
     url: http://www.gutenberg.org/2009/agents/44874
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48596#Take-It-From-Dad
 gutenberg_issued: '2015-03-28'
 gutenberg_type: Text
 identifiers:
